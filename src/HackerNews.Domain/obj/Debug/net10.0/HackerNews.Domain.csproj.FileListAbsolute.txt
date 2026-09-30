@@ -1,0 +1,12 @@
+C:\TestZone\2026\SantanderTest\src\HackerNews.Domain\bin\Debug\net10.0\HackerNews.Domain.deps.json
+C:\TestZone\2026\SantanderTest\src\HackerNews.Domain\bin\Debug\net10.0\HackerNews.Domain.dll
+C:\TestZone\2026\SantanderTest\src\HackerNews.Domain\bin\Debug\net10.0\HackerNews.Domain.pdb
+C:\TestZone\2026\SantanderTest\src\HackerNews.Domain\obj\Debug\net10.0\HackerNews.Domain.csproj.AssemblyReference.cache
+C:\TestZone\2026\SantanderTest\src\HackerNews.Domain\obj\Debug\net10.0\HackerNews.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\TestZone\2026\SantanderTest\src\HackerNews.Domain\obj\Debug\net10.0\HackerNews.Domain.AssemblyInfoInputs.cache
+C:\TestZone\2026\SantanderTest\src\HackerNews.Domain\obj\Debug\net10.0\HackerNews.Domain.AssemblyInfo.cs
+C:\TestZone\2026\SantanderTest\src\HackerNews.Domain\obj\Debug\net10.0\HackerNews.Domain.csproj.CoreCompileInputs.cache
+C:\TestZone\2026\SantanderTest\src\HackerNews.Domain\obj\Debug\net10.0\HackerNews.Domain.dll
+C:\TestZone\2026\SantanderTest\src\HackerNews.Domain\obj\Debug\net10.0\refint\HackerNews.Domain.dll
+C:\TestZone\2026\SantanderTest\src\HackerNews.Domain\obj\Debug\net10.0\HackerNews.Domain.pdb
+C:\TestZone\2026\SantanderTest\src\HackerNews.Domain\obj\Debug\net10.0\ref\HackerNews.Domain.dll

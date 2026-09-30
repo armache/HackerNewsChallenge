@@ -1,0 +1,15 @@
+C:\TestZone\2026\SantanderTest\src\HackerNews.Infrastructure\bin\Debug\net10.0\HackerNews.Infrastructure.deps.json
+C:\TestZone\2026\SantanderTest\src\HackerNews.Infrastructure\bin\Debug\net10.0\HackerNews.Infrastructure.dll
+C:\TestZone\2026\SantanderTest\src\HackerNews.Infrastructure\bin\Debug\net10.0\HackerNews.Infrastructure.pdb
+C:\TestZone\2026\SantanderTest\src\HackerNews.Infrastructure\bin\Debug\net10.0\HackerNews.Domain.dll
+C:\TestZone\2026\SantanderTest\src\HackerNews.Infrastructure\bin\Debug\net10.0\HackerNews.Domain.pdb
+C:\TestZone\2026\SantanderTest\src\HackerNews.Infrastructure\obj\Debug\net10.0\HackerNews.Infrastructure.csproj.AssemblyReference.cache
+C:\TestZone\2026\SantanderTest\src\HackerNews.Infrastructure\obj\Debug\net10.0\HackerNews.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\TestZone\2026\SantanderTest\src\HackerNews.Infrastructure\obj\Debug\net10.0\HackerNews.Infrastructure.AssemblyInfoInputs.cache
+C:\TestZone\2026\SantanderTest\src\HackerNews.Infrastructure\obj\Debug\net10.0\HackerNews.Infrastructure.AssemblyInfo.cs
+C:\TestZone\2026\SantanderTest\src\HackerNews.Infrastructure\obj\Debug\net10.0\HackerNews.Infrastructure.csproj.CoreCompileInputs.cache
+C:\TestZone\2026\SantanderTest\src\HackerNews.Infrastructure\obj\Debug\net10.0\HackerNe.6F2EF0D4.Up2Date
+C:\TestZone\2026\SantanderTest\src\HackerNews.Infrastructure\obj\Debug\net10.0\HackerNews.Infrastructure.dll
+C:\TestZone\2026\SantanderTest\src\HackerNews.Infrastructure\obj\Debug\net10.0\refint\HackerNews.Infrastructure.dll
+C:\TestZone\2026\SantanderTest\src\HackerNews.Infrastructure\obj\Debug\net10.0\HackerNews.Infrastructure.pdb
+C:\TestZone\2026\SantanderTest\src\HackerNews.Infrastructure\obj\Debug\net10.0\ref\HackerNews.Infrastructure.dll

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bnejp3hOpJw=",
+  "success": true,
+  "projectFilePath": "C:\\TestZone\\2026\\SantanderTest\\src\\HackerNews.Domain\\HackerNews.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ara\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.12\\microsoft.extensions.dependencyinjection.10.0.12.nupkg.sha512",
+    "C:\\Users\\ara\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.12\\microsoft.extensions.dependencyinjection.abstractions.10.0.12.nupkg.sha512",
+    "C:\\Users\\ara\\.nuget\\packages\\microsoft.extensions.logging\\10.0.12\\microsoft.extensions.logging.10.0.12.nupkg.sha512",
+    "C:\\Users\\ara\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.12\\microsoft.extensions.logging.abstractions.10.0.12.nupkg.sha512",
+    "C:\\Users\\ara\\.nuget\\packages\\microsoft.extensions.options\\10.0.12\\microsoft.extensions.options.10.0.12.nupkg.sha512",
+    "C:\\Users\\ara\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.12\\microsoft.extensions.primitives.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
